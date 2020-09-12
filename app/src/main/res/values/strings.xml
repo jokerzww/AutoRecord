@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutoRecord</string>
+    <string name="str_please_input_account">Please Input account..</string>
+    <string name="str_please_input_password">Please Input password..</string>
+    <string name="str_record">record</string>
+    <string name="str_open">open_timer</string>
+    <string name="str_close">close</string>
+</resources>
