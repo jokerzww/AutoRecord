@@ -1,5 +1,6 @@
 # AutoRecord
-For Jnu
+For Jnu 疫情自动打卡
+
 Something may be written well here，hoping you can discuss with me！ 
 I only make the tool for students at school！or you will fail to record！
 Timer is still under test，you can try it
